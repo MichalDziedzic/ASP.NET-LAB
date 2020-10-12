@@ -24,7 +24,7 @@ namespace LAB1.Controllers
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "test lab1.";
 
             return View();
         }
