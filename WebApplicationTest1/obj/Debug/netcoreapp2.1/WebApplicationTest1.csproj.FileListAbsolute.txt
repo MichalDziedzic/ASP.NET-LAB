@@ -32,3 +32,5 @@ E:\Projekty Github\ASP.NET-LAB\WebApplicationTest1\obj\Debug\netcoreapp2.1\WebAp
 E:\Projekty Github\ASP.NET-LAB\WebApplicationTest1\obj\Debug\netcoreapp2.1\WebApplicationTest1.csproj.CopyComplete
 E:\Projekty Github\ASP.NET-LAB\WebApplicationTest1\obj\Debug\netcoreapp2.1\Razor\Views\test\index.g.cshtml.cs
 E:\Projekty Github\ASP.NET-LAB\WebApplicationTest1\obj\Debug\netcoreapp2.1\Razor\Views\test\Wsei.g.cshtml.cs
+E:\Projekty Github\ASP.NET-LAB\WebApplicationTest1\obj\Debug\netcoreapp2.1\Razor\Views\test\TestModel.g.cshtml.cs
+E:\Projekty Github\ASP.NET-LAB\WebApplicationTest1\obj\Debug\netcoreapp2.1\Razor\Views\test\ShopItems.g.cshtml.cs
